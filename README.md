@@ -7,6 +7,12 @@ and display it fullscreen on the attached dispaly.
 
 Great for parties of if you are bored like I was. 
 
+## Requirements
+You need to have the following programs installed:
+
+xrandr
+feh
+
 
 # Usage
 In cmus do:
